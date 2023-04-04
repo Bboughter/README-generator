@@ -25,6 +25,8 @@
 
       The user will need to install node.js and the inquirer package prior to using this generator. After installation, the user will be prompted to answer a series of questions about their project. Once finished answering all the questions, a README file will be created with the users inputs.
 
+      Demonstration video can be accessed at https://drive.google.com/file/d/1dQKA21JvFB-GLu-iHPHQ_10__b91lJRj/view.
+
   ## Contributing
 
       As always, huge shoutout to our instructor, Bryan, our TA, shawn, and my amazing classmates at the UCLA Extended Campus Full Stack Bootcamp.
