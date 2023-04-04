@@ -4,7 +4,7 @@
   
   ## Description
 
-  This project was created to show how a README file can be created in the terminal by using node.js and inquirer.
+   This project was created to show how a README file can be created in the terminal by using node.js and inquirer.
 
   ## Table of Contents
 - [Installation](#installation)
@@ -19,15 +19,15 @@
 
   ## Installation
   
-  For this to run properly, you must install Node.js (https://nodejs.org/en/download) and Inquirer Package v.8.2.4 (https://www.npmjs.com/package/inquirer/v/8.2.4).
+   For this to run properly, you must install Node.js (https://nodejs.org/en/download) and Inquirer Package v.8.2.4 (https://www.npmjs.com/package/inquirer/v/8.2.4).
 
   ## Usage
 
-    The user will need to install node.js and the inquirer package prior to using this generator. After installation, the user will be prompted to answer a series of questions about their project. Once finished answering all the questions, a README file will be created with the users inputs.
+     The user will need to install node.js and the inquirer package prior to using this generator. After installation, the user will be prompted to answer a series of questions about their project. Once finished answering all the questions, a README file will be created with the users inputs.
 
   ## Contributing
 
-    As always, huge shoutout to our instructor, Bryan, our TA, shawn, and my amazing classmates at the UCLA Extended Campus Full Stack Bootcamp.
+      As always, huge shoutout to our instructor, Bryan, our TA, shawn, and my amazing classmates at the UCLA Extended Campus Full Stack Bootcamp.
 
   ## Tests
 
