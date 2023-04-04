@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
-const markdown = require('./utils/generateMarkdown');
+const generateMarkdown = require('./utils/generateMarkdown');
 // TODO: Create an array of questions for user input
 const questions = [
     {
@@ -66,7 +66,7 @@ const questions = [
 
 inquirer.createPromptModule(questions)
 .then(answers => {
-    const markdown = markdown(answers);
+    const markdown = generateMarkdown(answers);
     
     fs.writeFile('READ.md', markdown, err =>{
         if (err) {
